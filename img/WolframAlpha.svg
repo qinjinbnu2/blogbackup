@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="200mm"
+   viewBox="0 0 210 200"
+   version="1.1"
+   id="svg167"
+   inkscape:version="1.0 (b51213c273, 2020-08-10)"
+   sodipodi:docname="WolframAlpha.svg">
+  <defs
+     id="defs161" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33154762"
+     inkscape:cx="400"
+     inkscape:cy="704.95899"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="737"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polygon
+       points="18.469,0.001 22.532,6.792 29.905,3.632 29.104,11.456 36.971,13.132 31.614,19.003 36.971,24.875 29.102,26.548 29.903,34.373 22.531,31.211 18.469,38 14.406,31.209 7.033,34.37 7.835,26.547 -0.033,24.87 5.326,19 -0.031,13.128 7.836,11.455 7.037,3.63 14.409,6.792 "
+       style="fill:#f16850"
+       id="polygon28"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="7.037,3.627 11.425,9.414 18.469,11.861 14.409,6.79 "
+       style="fill:#fd694f"
+       id="polygon30"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="5.325,18.998 11.631,16.713 7.836,11.452 -0.032,13.126 "
+       style="fill:#ff3413"
+       id="polygon32"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="7.836,11.452 11.631,16.713 11.425,9.414 7.037,3.627 "
+       style="fill:#dc1d23"
+       id="polygon34"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="14.409,6.79 18.469,11.861 22.532,6.79 18.469,0 "
+       style="fill:#ff9281"
+       id="polygon36"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="29.104,11.455 25.307,16.713 31.613,19.001 36.971,13.13 "
+       style="fill:#ff8b79"
+       id="polygon38"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="29.905,3.629 25.513,9.414 25.307,16.713 29.104,11.455 "
+       style="fill:#fd694f"
+       id="polygon40"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="22.532,6.79 18.469,11.861 25.513,9.414 29.905,3.629 "
+       style="fill:#ef5240"
+       id="polygon42"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="31.613,19.001 25.307,16.713 29.866,22.499 36.97,24.872 "
+       style="fill:#ff482c"
+       id="polygon44"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="-0.033,24.868 7.072,22.499 11.631,16.713 5.325,18.998 "
+       style="fill:#ec2101"
+       id="polygon46"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="22.53,31.209 22.695,24.564 18.469,30.586 18.469,37.998 "
+       style="fill:#d21c22"
+       id="polygon48"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="29.102,26.546 36.97,24.872 29.866,22.499 22.695,24.564 "
+       style="fill:#c90901"
+       id="polygon50"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="29.102,26.546 22.695,24.564 22.53,31.209 29.902,34.371 "
+       style="fill:#ec2101"
+       id="polygon52"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="7.835,26.544 14.243,24.564 7.072,22.499 -0.033,24.868 "
+       style="fill:#b6171e"
+       id="polygon54"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="18.469,37.998 18.469,30.586 14.243,24.564 14.406,31.208 "
+       style="fill:#b4151b"
+       id="polygon56"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="14.406,31.208 14.243,24.564 7.835,26.544 7.033,34.368 "
+       style="fill:#d21c22"
+       id="polygon58"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="18.469,11.861 18.469,18.963 25.307,16.713 25.513,9.414 "
+       style="fill:#e63320"
+       id="polygon60"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="11.631,16.713 18.469,18.963 18.469,11.861 11.425,9.414 "
+       style="fill:#ff4527"
+       id="polygon62"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="22.695,24.564 18.469,18.963 14.243,24.564 18.469,30.586 "
+       style="fill:#ff9281"
+       id="polygon64"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="29.866,22.499 25.307,16.713 18.469,18.963 22.695,24.564 "
+       style="fill:#fd684d"
+       id="polygon66"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+    <polygon
+       points="14.243,24.564 18.469,18.963 11.631,16.713 7.072,22.499 "
+       style="fill:#fd745c"
+       id="polygon68"
+       transform="matrix(4.9674389,0,0,4.9674389,12.172891,5.3345063)" />
+  </g>
+</svg>

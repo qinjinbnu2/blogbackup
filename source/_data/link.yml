@@ -1,0 +1,32 @@
+- class_name: 友情链接
+  class_desc: 值得推荐的人
+  link_list:
+    - name: 李宣
+      link: https://lixuan.xyz/blog/
+      avatar: /img/lixuan.png
+      descr: 数据分析师
+
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name:  Web of Science Group
+      link:  https://mjl.clarivate.com/home
+      avatar: /img/WS_logo.png
+      descr: 影响因子查询
+    - name: github
+      link: https://github.com/
+      avatar: /img/github.png
+      descr: GitHub is a code hosting platform for version control and collaboration.
+    - name: WolframAlpha
+      link: https://www.wolframalpha.com/
+      avatar: /img/WolframAlpha.svg
+      descr: computational intelligence
+    - name: Mathematica programming an advanced introduction
+      link: http://www.mathprogramming-intro.org/book/Book.html
+      avatar: /img/Wolfram.png
+      descr: a good book for learning Mathematic
+    - name: Learn git branch
+      link: https://learngitbranching.js.org/?locale=zh_CN
+      avatar: /img/git.png
+      descr: git tutorial
